@@ -1,0 +1,56 @@
+{
+  "Header": {
+    "text_header": "Hello world"
+  },
+  "Footer": {
+    "text_footer": "©Copyright 2024 Nurzhan Documentation. All Rights Reserved"
+  },
+  "Sidebar": {
+    "started": "Getting Started",
+    "1_sidebar": "Introduction",
+    "2_sidebar": "Installation",
+    "3_sidebar": "Starting"
+  },
+  "Start": {
+    "text1": "Download",
+    "text2": "Прежде чем начать использовать погодное приложение, убедитесь, что у вас установлены следующие компоненты:",
+    "text3": "Web-browser",
+    "text4": "Download dependencies",
+    "text5": "Follow these steps to install weather application dependencies:",
+    "text6": "Open a terminal or command prompt.",
+    "text7": "Navigate to the directory containing the application files.",
+    "text8": "Run the following command:"
+  },
+  "Intro": {
+    "title": "Introduction",
+    "paragraph": "A weather application is a website that displays the current weather and forecast for a certain number of days. An external API is used to retrieve weather data."
+  },
+  "On": {
+    "title": "Launching the application",
+    "lol": "Follow the steps below to launch the weather application:",
+    "text1": "Usage",
+    "text2": "After launching the application, you will see the current weather and forecast for the coming days on the main page. You can enter a city name or location to get the weather in a specific region."
+  },
+  "Api": {
+    "text": "The weather application uses an external API to retrieve weather data. Please refer to the API documentation for more information about the available methods and parameters.",
+    "wha": "Before you start using the OpenWeatherMap API, you need to register on their website and get an API key. The API key is used to authenticate requests to the service."
+  },
+  "documentation": {
+    "websiteDocumentation": "Website documentation for the python subject project",
+    "development": "Development",
+    "contributionSteps": "If you want to contribute to the development of the weather application, here are a few steps to get started:",
+    "step1": "Clone the repository with the application using the command git clone.",
+    "step2": "Create a new branch for your work: git checkout -b feature/new-feature.",
+    "step3": "Make necessary changes and commits.",
+    "step4": "Push your changes to the server using the command git push origin feature/new-feature.",
+    "step5": "Create a pull request (PR) to merge your changes into the main repository branch.",
+    "githubLink": "Link to github project",
+    "clickHere": "Click Here",
+    "queryCityOrCoordinates": "q: City name or coordinates (latitude and longitude).",
+    "queryUnits": "units: Units of measurement for temperature (standard, metric, or kelvin).",
+    "queryLanguage": "lang: Language in which weather information will be returned (e.g., EN for English).",
+    "queryAPIKey": "APPID: Your API key.",
+    "texting": "Example request",
+    "json": "The API response will be in JSON format and will contain weather information for the specified city. You can get various weather data from the response, such as current temperature, minimum and maximum temperature and others."
+  }
+}
