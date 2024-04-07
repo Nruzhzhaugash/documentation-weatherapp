@@ -20,7 +20,7 @@ export default function LangSwitcher() {
       <p className="sr-only">Change language</p>
       <select
         defaultValue={localArchive}
-        className="bg-transparent py-2"
+        className="bg-black py-2"
         onChange={onSelectChange}
         disabled={isPending}
       >
